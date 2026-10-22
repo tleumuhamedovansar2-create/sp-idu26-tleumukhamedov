@@ -1,0 +1,16 @@
+*.o
+task1/procinfo
+task1/procfd
+task1/fddemo
+task1/demo.log
+task2/server
+task2/client
+task2/clients
+task3/race
+task3/race_tsan
+task3/race_dbg
+task3/msort
+task3/msort_tsan
+task3/msort_bench.csv
+task4/shmcnt
+task4/shmcnt_bench.csv
